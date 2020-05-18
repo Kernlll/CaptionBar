@@ -68,34 +68,3 @@ allprojects {
 	}
 
 ```
-
-### III: Contact me
-
-Email: vsky580@gmail.com  
-
-Facebook: https://www.facebook.com/kern.hu.580
-
-QQ群：43447852
-
-Hello,I'm kern....
-如果有帮助到你，请给我一个小星星。If it helps you,please give me a star.
-<br><br>
-![](https://github.com/KernHu/CaptionBar/raw/master/QR-code/alipay_code.png)  ![](https://github.com/KernHu/CaptionBar/raw/master/QR-code/alipay_invite_code.png)  ![](https://github.com/KernHu/CaptionBar/raw/master/QR-code/wechat_code.png)  
-
-<br><br>
-### Ⅳ：Apache License
-```
-   Copyright [2019-03] [KernHu Email:vsky580@gmail.com]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
